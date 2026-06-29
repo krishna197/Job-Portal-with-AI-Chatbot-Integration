@@ -8,10 +8,10 @@ Django Job Portal.
 
 ```
 open terminal and type
-https://github.com/Sany07/Job-Portal.git
+https://github.com/krishna197/Job-Portal-with-AI-Chatbot-Integration.git
 
 or simply download using the url below
-https://github.com/Sany07/Job-Portal.git
+https://github.com/krishna197/Job-Portal-with-AI-Chatbot-Integration.git
 ```
 
 ## Install requirements
